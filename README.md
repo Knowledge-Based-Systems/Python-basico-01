@@ -94,7 +94,7 @@ source ruta-a-carpeta-entorno/bin/activate
 ```
 4. Activar entorno en Windows
 ```sh
-\ruta-a-carpeta-entorno\Scripts\activate.bat
+.\ruta-a-carpeta-entorno\Scripts\activate.bat
 ```
 
 * Segundo Parte
